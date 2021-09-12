@@ -1,0 +1,22 @@
+.style {
+  @apply py-2 px-4 inline-block;
+}
+
+/* size  */
+.xs {
+  @apply text-xs;
+}
+
+.sm {
+  @apply text-sm;
+}
+
+.base {
+  @apply text-base bg-red-50;
+}
+
+/* style */
+
+.primary {
+  @apply bg-primary;
+}
